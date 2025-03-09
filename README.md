@@ -91,5 +91,4 @@ Below is a sample screenshot of the application:
 - Improve UI/UX with advanced styling frameworks.
 - Deploy the application to a cloud platform for wider accessibility.
 
----
 
